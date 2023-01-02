@@ -11,12 +11,9 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -28,83 +25,48 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+#### Mobile version:
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+![photo_2023-01-02_16-24-58](https://user-images.githubusercontent.com/99555654/210237479-ef69c1bd-5cee-461a-8da0-225576196ccc.jpg)
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+![screenshot-2023-01-02-161926](https://user-images.githubusercontent.com/99555654/210237552-c6641878-df65-45c0-abb2-f164a1d12e17.jpg)
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+#### Desktop version:
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![screenshot-2023-01-02-161830](https://user-images.githubusercontent.com/99555654/210237586-98d42037-c4f9-4ea5-82c5-9d8bc286f6f5.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/testimonials-grid-section-6FMCeFJPiK) | 
+[Live Site URL](https://zarni-ein.github.io/testimonials-grid-section/)
 
 ## My process
+
+1) Built a simple mockup with borders
+2) Tuned the behavior of mobile and desktop versions of cards with flexbox
+3) Tuned the colors and styling, added custom font
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+In this project positioning elements was quite a pain in the back, but in the end I had several ideas on what measurement units to use, where to place breakpoint etc. So, a lot of practice on semantic html in one challenge.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [CSS box-shadow generator](https://cssgenerator.org/box-shadow-css-generator.html) - This helped me w/ styling the outer shadow of the card
+- [Adobe color wheel](https://color.adobe.com/create/color-wheel) - A great tool I've used to find complementary colors to make hover effect for the button
+- [Flex cheatsheet](https://yoksel.github.io/flex-cheatsheet/) - This helped me a lot w/ setting up flexbox
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- My Frontend Mentor page - [@zarni-ein](https://www.frontendmentor.io/profile/zarni-ein)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+A huge thanks to [Zach Gollwitzer](https://www.zachgollwitzer.com/). He helped a lot with explaining more difficult issues. [His YT channel](https://www.youtube.com/c/ZachGollwitzer).
